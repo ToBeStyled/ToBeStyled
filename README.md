@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Enzo 👋
+![Enzogif](https://cdn.discordapp.com/attachments/872876481666236456/890191309036470272/Animation_Github_5s.gif)
 
-<!--
-**ToBeStyled/ToBeStyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me: 
+I'm a french full-stack developer experimenting with Flutter and Dart.  
+Don't hesitate to reach out if you struggle with the content of one of my repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 You can find me writing tech articles on [Dev.to](https://dev.to/blkkkbvsik).   
+🤝 Or maybe making new contacts on [LinkedIn](https://www.linkedin.com/in/enzoconty/).   
+📱 Finally, I'm also on [Twitter](https://twitter.com/EnzoConty).   
+🧑‍💻 Got a question ? Send me an email at [contact@enzoconty.dev](mailto:contact@enzoconty.dev) or contact me through my [website](http://enzoconty.dev/).  
+
